@@ -1,0 +1,60 @@
+data > Atmosphere > Ozone_sonde_profiles
+https://mvre.webodv.cloud.awi.de/DataExploration/id/9zchB6ea
+https://doi.pangaea.de/10.1594/PANGAEA.919538
+https://doi.pangaea.de/10.1594/PANGAEA.941294
+
+data > Atmosphere > Radiosonde_measurements
+https://mvre.webodv.cloud.awi.de/DataExploration/id/posWGY7g
+https://doi.pangaea.de/10.1594/PANGAEA.943516
+https://doi.pangaea.de/10.1594/PANGAEA.943743
+https://doi.pangaea.de/10.1594/PANGAEA.943863
+https://doi.pangaea.de/10.1594/PANGAEA.943871
+https://doi.pangaea.de/10.1594/PANGAEA.944510
+https://doi.pangaea.de/10.1594/PANGAEA.944516
+https://doi.pangaea.de/10.1594/PANGAEA.944529
+https://doi.pangaea.de/10.1594/PANGAEA.944573
+https://doi.pangaea.de/10.1594/PANGAEA.944611
+https://doi.pangaea.de/10.1594/PANGAEA.944808
+https://doi.pangaea.de/10.1594/PANGAEA.944818
+https://doi.pangaea.de/10.1594/PANGAEA.944834
+https://doi.pangaea.de/10.1594/PANGAEA.944839
+https://doi.pangaea.de/10.1594/PANGAEA.944853
+
+data > Sea_ice > First-year_sea-ice_salinity999_temperature999_density999_oxygen_and_hydrogen_isotope_composition
+https://mvre.webodv.cloud.awi.de/DataExploration/id/AHCRWnLb
+https://doi.pangaea.de/10.1594/PANGAEA.956732
+
+data > Sea_ice > Temperature_data_measured_by_the_thermistors_chain_of_the_ice_unit_of_the_unmanned_ice_station
+https://mvre.webodv.cloud.awi.de/DataExploration/id/sCoPN2EF
+https://doi.pangaea.de/10.1594/PANGAEA.938483
+
+data > Sea_ice > Second-year_sea-ice_salinity999_temperature999_density999_oxygen_and_hydrogen_isotope_composition_from_the_main_coring_site
+https://mvre.webodv.cloud.awi.de/DataExploration/id/sdmDChCA
+https://doi.pangaea.de/10.1594/PANGAEA.959830
+
+data > Ocean > Basic_Hydrographic_Observations_from_Polarstern_and_Ocean_City_CTD > Profile_and_Bottle_Data
+https://mvre.webodv.cloud.awi.de/DataExploration/id/GZZAm44X
+https://doi.pangaea.de/10.1594/PANGAEA.959963
+https://doi.pangaea.de/10.1594/PANGAEA.959964
+https://doi.pangaea.de/10.1594/PANGAEA.959965
+https://doi.pangaea.de/10.1594/PANGAEA.959966
+
+data > Ocean > Stable_water_isotopes_of_seawater_at_Ocean_City
+https://mvre.webodv.cloud.awi.de/DataExploration/id/H63CTo0e
+https://doi.pangaea.de/10.1594/PANGAEA.958464
+
+data > Ocean > Dissolved_inorganic_carbon_and_total_alkalinity_of_seawater_samples
+https://mvre.webodv.cloud.awi.de/DataExploration/id/QWCJUHiy
+https://doi.pangaea.de/10.1594/PANGAEA.954969
+
+data > Biogeochemistry > Algal_pigment_concentrations_in_the_ocean
+https://mvre.webodv.cloud.awi.de/DataExploration/id/HfY7RKcd
+https://doi.pangaea.de/10.1594/PANGAEA.955763
+
+data > Biogeochemistry > Composition_of_chromophoric_dissolved_organic_matter_in_Central_Arctic
+https://mvre.webodv.cloud.awi.de/DataExploration/id/nmANJYek
+https://doi.pangaea.de/10.1594/PANGAEA.948016
+
+data > Biogeochemistry > Flow_cytometry_dataset_from_CTD_casts_showing_the_abundance_of_microorganisms
+https://mvre.webodv.cloud.awi.de/DataExploration/id/p6L85yHw
+https://doi.pangaea.de/10.1594/PANGAEA.963430
