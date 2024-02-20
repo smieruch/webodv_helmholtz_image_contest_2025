@@ -1,1 +1,13 @@
-# webodv_helmholtz_image_contest_2024
+# webODV Helmholtz Image Contest 2024
+
+This repository provides additional information to our contribution to
+the 2024 Helmholtz Imaging Contest
+(https://awards.helmholtz-imaging.de/) organized by the Helmholtz
+Imaging Platform (https://helmholtz-imaging.de/)
+
+## views.md:
+- Links to access directly MOSAiC data in webODV
+- All single images in the submitted composition image are available
+
+## dois.txt
+- A list of DOI's to the original data used to create the image
