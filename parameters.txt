@@ -1,0 +1,23 @@
+Row 1: Atmosphere
+    - Temperature, air [°C]
+    - Ozone, partial pressure [mPa]
+    - Wind speed [m/s]
+    - Humidity, relative [%]
+
+Row 2: Ice
+    - Sea ice salinity [g/kg] (first year ice)
+    - Temperature [°C]
+    - Sea ice salinity [g/kg] (second year ice)
+    - Volume, brine [%]
+
+Row 3: Ocean
+    - Temperature [°C]
+    - δ18O, water [‰]
+    - Alkalinity, total [μmol/kg]
+    - Salinity [g/kg]
+
+Row 4: Ocean
+    - Chlorophyll a, total [ng/l]
+    - Oxygen saturation [ml/l]
+    - Carbon, organic, dissolved [μmol/kg]
+    - Picophytoplankton, red flueorescence [#/ml]
