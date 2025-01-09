@@ -1,4 +1,4 @@
-# webODV Helmholtz Image Contest 2024
+# webODV Helmholtz Image Contest 2025
 
 This repository provides additional information to our contribution to
 the 2024 Helmholtz Imaging Contest
