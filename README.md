@@ -1,7 +1,7 @@
 # webODV Helmholtz Image Contest 2025
 
 This repository provides additional information to our contribution to
-the 2024 Helmholtz Imaging Contest
+the 2025 Helmholtz Imaging Contest
 (https://awards.helmholtz-imaging.de/) organized by the Helmholtz
 Imaging Platform (https://helmholtz-imaging.de/).
 
